@@ -14,7 +14,7 @@ p {
   margin-top: 120px;
 }
 
-.left-img-col img {
+.left-img-col > img {
   object-fit: fill;
 }
 
@@ -29,4 +29,5 @@ h5 {
 
 .right-info-col {
   padding: 20px;
+
 }
