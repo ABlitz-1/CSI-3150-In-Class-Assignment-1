@@ -17,14 +17,63 @@ p {
 h3 {
   font-size: 32px;
   color: black;
+  margin-bottom: 15px;
 }
 
 h5 {
   font-size: 18px;
+  color: lightgray;
+  margin-bottom: 20px;
+}
+
+img {
+  width: 100px;
+  height: 100px;
 }
 
 .right-info-col {
   padding: 20px;
-
+  background-color: white;
 }
 
+.available-colors {
+  padding: 20px;
+}
+
+.black-color-container {
+  width: 20px;
+  height: 20px;
+  background-color: black;
+  border-radius: 50%;
+}
+
+.red-color-container {
+  width: 20px;
+  height: 20px;
+  background-color: red;
+  border-radius: 50%;
+}
+
+.beige-color-container {
+  width: 20px;
+  height: 20px;
+  background-color: beige;
+  border-radius: 50%;
+}
+h6 {
+  font-size: 14px;
+}
+
+.price {
+  margin-bottom: 20px;
+}
+
+.price h4 {
+  font-size: 32px;
+  color: black;
+}
+
+.buy_btn {
+  width: 150px;
+  height: 40px;
+}
